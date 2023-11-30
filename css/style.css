@@ -1,0 +1,51 @@
+html {
+    color: white;
+}
+
+h5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.img-thumbnail {
+    width: 200px;
+}
+
+.bg-darkBlue {
+    background-color: #022B42;
+}
+
+.bg-whiteBlue {
+    background-color: #003554;
+}
+
+.text-cBlue {
+    color: #006DA4;
+}
+
+.text-cBlue:hover {
+    color: white;
+}
+
+.fa-square-instagram {
+    color: #006DA4;
+}
+
+.fa-square-instagram:hover {
+    background-color: white;
+}
+
+.fa-square-facebook{
+    color: #006DA4;
+}
+
+.fa-square-facebook:hover {
+    background-color: white;
+}
+
+.fa-square-github {
+    color: #006DA4;
+}
+
+.fa-square-github:hover {
+    background-color: white;
+}
