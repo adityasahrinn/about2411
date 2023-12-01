@@ -49,3 +49,7 @@ h5 {
 .fa-square-github:hover {
     background-color: white;
 }
+
+.btn:hover {
+    background-color: #006DA4;
+}
